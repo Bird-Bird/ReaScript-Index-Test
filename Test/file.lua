@@ -2,6 +2,6 @@
 -- @version 0.5
 -- @author BirdBird
 -- @provides
---    [nomain][data]libraries/some_file.json
+--    [data]libraries/some_file.json
 
 reaper.ShowConsoleMsg("Hello!\n")
