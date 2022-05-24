@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Index Test"/>
+<index version="1" name="Index Test" commit="f7ab4b11584fce4501a95ba4d99c9717bea8407a">
+  <category name="Test">
+    <reapack name="file.lua" type="script" desc="Index Test">
+      <version name="0.2" author="BirdBird" time="2022-05-24T15:01:30Z">
+        <source main="main">https://github.com/Bird-Bird/ReaScript-Index-Test/raw/f7ab4b11584fce4501a95ba4d99c9717bea8407a/Test/file.lua</source>
+        <source file="libraries/some_file.json">https://github.com/Bird-Bird/ReaScript-Index-Test/raw/f7ab4b11584fce4501a95ba4d99c9717bea8407a/Test/libraries/some_file.json</source>
+      </version>
+    </reapack>
+  </category>
+</index>
